@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Quattrocento&display=swap');
+@import '/css/login';
+
+$footerBacground:$primaryColor;
+$footerWidth: 1440px;
+$footerHeight: 463px;
+
+section{
+    width: $footerWidth;
+    height: $footerHeight;
+    background-color: $footerBacground;
+    .footerLogo{
+
+        margin-top: 81px;
+        margin-left: 156px;
+    }
+    .Rectangle-3-Copy {
+        width: 65px;
+        height: 37px;
+        color: #e8eff7;
+        font-family: $primaryColor;
+    }
+    .Wire-Land-Copy{
+        width: 124px;
+        height: 23px;
+        color: #e8eff7;
+        font-weight: bold;
+        margin-right: 10px;
+    }
+    .description{
+        width: 448.2px;
+        height: 76px;
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #e8eff7;
+        margin-top: 26px;
+        margin-left: 153px;
+    }
+}

@@ -77,11 +77,11 @@ section{
           &::placeholder{
             width: 206px;
             height: 46px;
-            font-family: Roboto;
+            font-family: $primaryFontFamily;
             font-size: 14px;
             font-weight: normal;
-            font-style: normal;
-            font-stretch: normal;
+            font-style: $primaryFontStyle;
+            font-stretch: $primaryFontStretch;
             line-height: normal;
             letter-spacing: normal;
             color: #b5d6ec;
@@ -98,11 +98,11 @@ section{
         &::placeholder{
           width: 206px;
           height: 46px;
-          font-family: Roboto;
+          font-family: $primaryFontFamily;
           font-size: 14px;
           font-weight: normal;
-          font-style: normal;
-          font-stretch: normal;
+          font-style: $primaryFontStyle;
+          font-stretch: $primaryFontStretch;
           line-height: normal;
           letter-spacing: normal;
           color: #b5d6ec;
@@ -118,11 +118,11 @@ section{
         &::placeholder{
           width: 206px;
           height: 46px;
-          font-family: Roboto;
+          font-family: $primaryFontFamily;
           font-size: 14px;
           font-weight: normal;
-          font-style: normal;
-          font-stretch: normal;
+          font-style: $primaryFontStyle;
+          font-stretch: $primaryFontStretch;
           line-height: normal;
           letter-spacing: normal;
           color: #b5d6ec;
