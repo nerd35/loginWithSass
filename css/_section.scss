@@ -1,0 +1,219 @@
+section{
+    background: $primaryBackground;
+    width: $primaryWidth;
+    height: $primaryHeight;
+    .arrowLeft{
+        width: 18px;
+        height: 12px;
+        color: $primaryColor;
+        margin-top: 46px;
+        margin-left: 48px;
+    }
+    .goBack {
+        width: 137px;
+        height: 24px;
+        font-family: $primaryFontFamily;
+        font-size: 18px;
+        font-weight: 500;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: $textAlign;
+        color: $primaryColor;
+        margin-top: 40px;
+        margin-left: 85px-48px;
+      }
+      .logoImg {
+      
+        display: block;
+        width: 90px;
+        height: 90px;
+        object-fit: contain;
+        margin-top: 178px-40px;
+        margin-left: 676px;
+      }
+      .loginBtn{
+        width: 165px;
+        height: 26px;
+        font-family: $primaryFontFamily;
+        font-size: 16px;
+        font-weight: 500;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: 1.63;
+        letter-spacing: normal;
+        text-align: $textAlign;
+        color: $primaryColor;
+        padding-bottom: 30px;
+        border-bottom: 3px solid $primaryColor;
+        text-decoration: none;
+        margin-top: 66px;
+        margin-left: 540px;
+      }
+      .signupBtn{
+        width: 165px;
+        height: 26px;
+        font-family: $primaryFontFamily;
+        font-size: 16px;
+        font-weight: 500;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: 1.63;
+        letter-spacing: normal;
+        text-align: $textAlign;
+        color: $primaryColor;
+        border: 1px solid none;
+        margin-top: 50px;
+        margin-left: 30px;
+      }
+      .formInput1{
+          width: 360px;
+          height: 48px;
+          border-radius: $primaryBorderRadius;
+          border: solid 2px $primaryColor;
+          margin-top: 32px;
+          margin-left: 540px;
+          &::placeholder{
+            width: 206px;
+            height: 46px;
+            font-family: Roboto;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #b5d6ec;
+          }
+
+      }
+      .formInput2{
+        width: 360px;
+        height: 48px;
+        border-radius: $primaryBorderRadius;
+        border: solid 2px $primaryColor;
+        margin-top: 9px;
+        margin-left: 540px;
+        &::placeholder{
+          width: 206px;
+          height: 46px;
+          font-family: Roboto;
+          font-size: 14px;
+          font-weight: normal;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: normal;
+          letter-spacing: normal;
+          color: #b5d6ec;
+        }
+    }
+    .formInput3{
+      width: 360px;
+        height: 48px;
+        border-radius: $primaryBorderRadius;
+        border: solid 2px $primaryColor;
+        margin-top: 9px;
+        margin-left: 540px;
+        &::placeholder{
+          width: 206px;
+          height: 46px;
+          font-family: Roboto;
+          font-size: 14px;
+          font-weight: normal;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: normal;
+          letter-spacing: normal;
+          color: #b5d6ec;
+        }
+    }
+    .btnLink{
+      width: 360px;
+      height: 44px;
+      font-family: $primaryFontFamily;
+      font-size: 14px;
+      font-weight: bold;
+      font-style: $primaryFontStyle;
+      font-stretch: $primaryFontStretch;
+      line-height: normal;
+      letter-spacing: 0.4px;
+      text-align: $textAlign;
+      color: #e8eff7;
+      background-color: $primaryColor;
+      margin-top: 9px;
+      margin-left: 540px;
+    }
+    .forgotPassword{
+      width: 158px;
+      height: 24px;
+      opacity: 0.5;
+      font-family: $primaryFontFamily;
+      font-size: 14px;
+      font-weight: normal;
+      font-style: $primaryFontStyle;
+      font-stretch: $primaryFontStretch;
+      line-height: 1.71;
+      letter-spacing: normal;
+      text-align: center;
+      color: $primaryColor;
+      margin-top: 26px;
+      margin-left: 641px;
+    }
+    .customControl{
+      margin-top: 30px;
+      margin-bottom: 20px;
+      margin-left: 540px
+    }
+    .option{
+      margin-left: 540px;
+    }
+    .divider{
+      width: 165px;
+      height: 1px;
+      background-color: #b5d6ec;
+      margin-top: 12px;
+    }
+    .optionDivider{
+      width: 13px;
+      height: 24px;
+      font-family: $primaryFontFamily;
+      font-size: 14px;
+      font-weight: normal;
+      font-style: $primaryFontStyle;
+      font-stretch: $primaryFontStretch;
+      line-height: 1.71;
+      letter-spacing: normal;
+      text-align: $textAlign;
+      color: #3c88b5;
+      margin-left: 6px;
+      margin-right: 6px;
+    }
+    .social{
+      margin-top: 25px;
+      margin-left: 540px;
+    }
+    .social1{
+      width: 165px;
+      height: 48px;
+      border-radius: $primaryBorderRadius;
+      background-color: $primaryColor;
+      margin-right: 30px;
+    }
+    .social2{
+      width: 165px;
+      height: 48px;
+      border-radius: $primaryBorderRadius;
+      background-color: $primaryColor;
+    }
+    .facebook{
+      width: 6.5px;
+      height: 14px;
+      color: #ffffff;
+    }
+    .google{
+      width: 21px;
+      height: 13.3px;
+      color: #ffffff;
+    }
+}

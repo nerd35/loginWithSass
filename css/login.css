@@ -1,0 +1,674 @@
+section {
+  background: #e8eff7;
+  width: 100%;
+  height: 828px;
+}
+
+section .arrowLeft {
+  width: 18px;
+  height: 12px;
+  color: #3c88b5;
+  margin-top: 46px;
+  margin-left: 48px;
+}
+
+section .goBack {
+  width: 137px;
+  height: 24px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  margin-top: 40px;
+  margin-left: 37px;
+}
+
+section .logoImg {
+  display: block;
+  width: 90px;
+  height: 90px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  margin-top: 138px;
+  margin-left: 676px;
+}
+
+section .loginBtn {
+  width: 165px;
+  height: 26px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.63;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  padding-bottom: 30px;
+  border-bottom: 3px solid #3c88b5;
+  text-decoration: none;
+  margin-top: 66px;
+  margin-left: 540px;
+}
+
+section .signupBtn {
+  width: 165px;
+  height: 26px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.63;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  border: 1px solid none;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+section .formInput1 {
+  width: 360px;
+  height: 48px;
+  border-radius: 4px;
+  border: solid 2px #3c88b5;
+  margin-top: 32px;
+  margin-left: 540px;
+}
+
+section .formInput1::-webkit-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput1:-ms-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput1::-ms-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput1::placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput2 {
+  width: 360px;
+  height: 48px;
+  border-radius: 4px;
+  border: solid 2px #3c88b5;
+  margin-top: 9px;
+  margin-left: 540px;
+}
+
+section .formInput2::-webkit-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput2:-ms-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput2::-ms-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput2::placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput3 {
+  width: 360px;
+  height: 48px;
+  border-radius: 4px;
+  border: solid 2px #3c88b5;
+  margin-top: 9px;
+  margin-left: 540px;
+}
+
+section .formInput3::-webkit-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput3:-ms-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput3::-ms-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput3::placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .btnLink {
+  width: 360px;
+  height: 44px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.4px;
+  text-align: center;
+  color: #e8eff7;
+  background-color: #3c88b5;
+  margin-top: 9px;
+  margin-left: 540px;
+}
+
+section .forgotPassword {
+  width: 158px;
+  height: 24px;
+  opacity: 0.5;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  margin-top: 26px;
+  margin-left: 641px;
+}
+
+section .customControl {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 540px;
+}
+
+section .option {
+  margin-left: 540px;
+}
+
+section .divider {
+  width: 165px;
+  height: 1px;
+  background-color: #b5d6ec;
+  margin-top: 12px;
+}
+
+section .optionDivider {
+  width: 13px;
+  height: 24px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+section .social {
+  margin-top: 25px;
+  margin-left: 540px;
+}
+
+section .social1 {
+  width: 165px;
+  height: 48px;
+  border-radius: 4px;
+  background-color: #3c88b5;
+  margin-right: 30px;
+}
+
+section .social2 {
+  width: 165px;
+  height: 48px;
+  border-radius: 4px;
+  background-color: #3c88b5;
+}
+
+section .facebook {
+  width: 6.5px;
+  height: 14px;
+  color: #ffffff;
+}
+
+section .google {
+  width: 21px;
+  height: 13.3px;
+  color: #ffffff;
+}
+
+section .logoImg1 {
+  display: block;
+  width: 90px;
+  height: 90px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  margin-top: 74px;
+  margin-left: 676px;
+}
+
+section .loginBtn1 {
+  width: 165px;
+  height: 26px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.63;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  text-decoration: none;
+  margin-top: 52px;
+  margin-left: 540px;
+}
+
+section .signupBtn2 {
+  width: 165px;
+  height: 26px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.63;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  padding-bottom: 30px;
+  border-bottom: 3px solid #3c88b5;
+  border: 1px solid none;
+  margin-top: 68px;
+  margin-left: 30px;
+}
+
+section .formInput3 {
+  width: 360px;
+  height: 48px;
+  border-radius: 4px;
+  border: solid 2px #3c88b5;
+  margin-top: 9px;
+  margin-left: 540px;
+}
+
+section .formInput3::-webkit-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput3:-ms-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput3::-ms-input-placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput3::placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .customControl {
+  margin-bottom: 20px;
+  margin-left: 540px;
+}
+
+section .checkMe {
+  width: 16px;
+  height: 16px;
+  color: #3c88b5;
+  border-radius: 2px;
+  border: solid 1px #b5d6ec;
+  background-color: #ffffff;
+  margin-top: 25px;
+}
+
+section .checkLabel {
+  width: 210px;
+  height: 24px;
+  opacity: 0.5;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  margin-left: 4px;
+}
+
+section .formCard {
+  display: block;
+  width: 359.5px;
+  height: 329px;
+  border: solid 1px #b5d6ec;
+  background-color: #ffffff;
+  margin-top: 28px;
+  margin-left: 540px;
+}
+
+section .formCard1 {
+  width: 359.5px;
+  height: 364px;
+  border: solid 1px #b5d6ec;
+  background-color: #ffffff;
+  margin-top: 58px;
+  margin-left: 540px;
+}
+
+section .loginBtn2 {
+  width: 45px;
+  height: 45px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  margin-left: 64px;
+  margin-right: 70px;
+}
+
+section .loginBtn7 {
+  width: 174px;
+  height: 45px;
+  background-color: #b5d6ec;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  border-radius: 0;
+}
+
+section .signupBtn3 {
+  width: 174px;
+  height: 45px;
+  background-color: #b5d6ec;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  border-radius: 0;
+}
+
+section .signupBtn8 {
+  width: 45px;
+  height: 45px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  margin-left: 57px;
+}
+
+section .formInput5 {
+  width: 291px;
+  height: 48px;
+  border-radius: 4px;
+  border: solid 2px #3c88b5;
+  margin-top: 45px;
+  margin-left: 36px;
+}
+
+section .formInput5::Placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .formInput6 {
+  width: 291px;
+  height: 48px;
+  border-radius: 4px;
+  border: solid 2px #3c88b5;
+  margin-top: 9px;
+  margin-left: 36px;
+}
+
+section .formInput6::Placeholder {
+  width: 206px;
+  height: 46px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b5d6ec;
+}
+
+section .btnLink1 {
+  width: 291px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.4px;
+  text-align: center;
+  color: #e8eff7;
+  background-color: #3c88b5;
+  border-radius: 4px;
+  border: solid 2px #3c88b5;
+  margin-top: px;
+  margin-left: 36px;
+}
+
+section .forgotPassword1 {
+  width: 114px;
+  height: 24px;
+  opacity: 0.5;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  margin-top: 9px;
+  margin-left: 123px;
+}
+
+section .orLogin {
+  width: 87px;
+  height: 24px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  text-align: center;
+  color: #3c88b5;
+  margin-top: 26px;
+  margin-left: 675.5px;
+}
+/*# sourceMappingURL=login.css.map */

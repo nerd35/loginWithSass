@@ -1,0 +1,263 @@
+@mixin signupCard{
+    width: 174px;
+    height: 45px;
+    background-color: #b5d6ec;
+}
+section{
+      .logoImg1 {
+      
+        display: block;
+        width: 90px;
+        height: 90px;
+        object-fit: contain;
+        margin-top: 114px-40px;
+        margin-left: 676px;
+      }
+      .loginBtn1{
+        width: 165px;
+        height: 26px;
+        font-family: $primaryFontFamily;
+        font-size: 16px;
+        font-weight: 500;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: 1.63;
+        letter-spacing: normal;
+        text-align: $textAlign;
+        color: $primaryColor;
+        text-decoration: none;
+        margin-top: 52px;
+        margin-left: 540px;
+      }
+      .signupBtn2{
+        width: 165px;
+        height: 26px;
+        font-family: $primaryFontFamily;
+        font-size: 16px;
+        font-weight: 500;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: 1.63;
+        letter-spacing: normal;
+        text-align: $textAlign;
+        color: $primaryColor;
+        padding-bottom: 30px;
+        border-bottom: 3px solid $primaryColor;
+        border: 1px solid none;
+        margin-top: 68px;
+        margin-left: 30px;
+      }
+    .formInput3{
+      width: 360px;
+        height: 48px;
+        border-radius: $primaryBorderRadius;
+        border: solid 2px $primaryColor;
+        margin-top: 9px;
+        margin-left: 540px;
+        &::placeholder{
+          width: 206px;
+          height: 46px;
+          font-family: $primaryFontFamily;
+          font-size: 14px;
+          font-weight: normal;
+          font-style: $primaryFontStyle;
+          font-stretch: $primaryFontStretch;
+          line-height: normal;
+          letter-spacing: normal;
+          color: #b5d6ec;
+        }
+    }
+    .customControl{
+      margin-bottom: 20px;
+      margin-left: 540px
+    }
+    .checkMe{
+        width: 16px;
+        height: 16px;
+        color: $primaryColor;
+        border-radius: 2px;
+        border: solid 1px #b5d6ec;
+        background-color: #ffffff;
+        margin-top: 25px;
+    }
+    .checkLabel{
+        width: 210px;
+        height: 24px;
+        opacity: 0.5;
+        font-family: $primaryFontFamily;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: 1.71;
+        letter-spacing: normal;
+        text-align: $textAlign;
+        color: $primaryColor;
+        margin-left: 4px;
+    }
+    .formCard{
+        display: block;
+        width: 359.5px;
+        height: 329px;
+        border: solid 1px #b5d6ec;
+        background-color: #ffffff;
+        margin-top: 28px;
+        margin-left: 540px;
+
+    }
+    .formCard1{
+        width: 359.5px;
+        height: 364px;
+        border: solid 1px #b5d6ec;
+        background-color: #ffffff;
+        margin-top: 58px;
+        margin-left: 540px;
+    }
+    .loginBtn2{
+        width: 45px;
+        height: 45px;
+        font-family: $primaryFontFamily;
+        font-size: 18px;
+        font-weight: 500;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: $primaryColor;
+        margin-left: 64px;
+        margin-right: 70px;
+
+    }
+    .loginBtn7{
+        @include signupCard();
+        font-family: $primaryFontFamily;
+        font-size: 18px;
+        font-weight: 500;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: $textAlign;
+        color: #3c88b5;
+        border-radius: 0;
+
+    }
+    .signupBtn3{
+        @include signupCard();
+        font-family: $primaryFontFamily;
+        font-size: 18px;
+        font-weight: 500;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: $textAlign;
+        color: #3c88b5;
+        border-radius: 0;
+    }
+    .signupBtn8{
+
+        width: 45px;
+        height: 45px;
+        font-family: $primaryFontFamily;
+        font-size: 18px;
+        font-weight: 500;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: $primaryColor;
+        margin-left: 57px;
+    }
+    .formInput5{
+        width: 291px;
+        height: 48px;
+        border-radius: 4px;
+        border: solid 2px #3c88b5;
+        margin-top: 45px;
+        margin-left: 36px;
+        &::Placeholder {
+            width: 206px;
+            height: 46px;
+            font-family: Roboto;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #b5d6ec;
+        }
+    }
+    .formInput6{
+        width: 291px;
+        height: 48px;
+        border-radius: 4px;
+        border: solid 2px $primaryColor;
+        margin-top: 9px;
+        margin-left: 36px;
+        &::Placeholder {
+            width: 206px;
+            height: 46px;
+            font-family: $primaryFontFamily;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: $primaryFontStyle;
+            font-stretch: $primaryFontStretch;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #b5d6ec;
+        }
+    }
+    .btnLink1{
+        width: 291px;
+        height: 48px;
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 0.4px;
+        text-align: center;
+        color: #e8eff7;
+        background-color: $primaryColor;
+        border-radius: 4px;
+        border: solid 2px $primaryColor;
+        margin-top: px;
+        margin-left: 36px;
+    }
+    .forgotPassword1{
+        width: 114px;
+        height: 24px;
+        opacity: 0.5;
+        font-family: $primaryFontFamily;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: 1.71;
+        letter-spacing: normal;
+        text-align: $textAlign;
+        color: $primaryColor;
+        margin-top: 9px;
+        margin-left: 123px;
+    }
+    .orLogin{
+        width: 87px;
+        height: 24px;
+        font-family: $primaryFontFamily;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: $primaryFontStyle;
+        font-stretch: $primaryFontStretch;
+        line-height: 1.71;
+        letter-spacing: normal;
+        text-align: $textAlign;
+        color: $primaryColor;
+        margin-top: 26px;
+        margin-left: 675.5px;
+    }
+}
